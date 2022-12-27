@@ -1,0 +1,224 @@
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\122454.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\96.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\face.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\makeup.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\man.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\mask.jpeg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\no_image.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\piling.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\soliarij.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\брови.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Гречишный массаж.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Декорирование нарощенных ресниц стразами.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Демакияж.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Депиляция воском.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Европейский маникюр.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\ИК-сауна.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Классический маникюр.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Комбинированный маникюр.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Контурная пластика.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\массаж.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Мезотерапия.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Моделирование ресниц.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\ногти.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Окрашивание бровей.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Парафинотерапия.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Покрытие ногтей гель-лаком.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Полировка ногтей.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Прессотерапия.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Прокол ушей пистолетом.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Ресницы.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Снятие ресниц.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\стрижка.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Укрепление ногтей гелем.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Шугаринг.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Экспресс SPA.png
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Экспресс-педикюр.jpg
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.exe
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.deps.json
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.runtimeconfig.json
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.pdb
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Humanizer.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\практика трпо\BeautySaloon\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.AssemblyReference.cache
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\Views\BeautySaloonHome.g.cs
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\Views\ServisesPage.g.cs
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\App.g.cs
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_MarkupCompile.cache
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_MarkupCompile.lref
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\App.baml
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\Views\BeautySaloonHome.baml
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\Views\ServisesPage.baml
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.g.resources
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.AssemblyInfoInputs.cache
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.AssemblyInfo.cs
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.CoreCompileInputs.cache
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.CopyComplete
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.dll
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\refint\BeautySaloon.dll
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.pdb
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.genruntimeconfig.cache
+D:\практика трпо\BeautySaloon\obj\Debug\net6.0-windows\ref\BeautySaloon.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.AssemblyReference.cache
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\BeautySaloonHome.g.cs
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\ServiceRegistration.g.cs
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\ServisesPage.g.cs
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\UpdateServicePage.g.cs
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_MarkupCompile.cache
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon_MarkupCompile.lref
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\122454.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\96.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\face.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\makeup.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\man.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\mask.jpeg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\no_image.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\piling.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\soliarij.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\брови.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Гречишный массаж.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Декорирование нарощенных ресниц стразами.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Демакияж.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Депиляция воском.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Европейский маникюр.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\ИК-сауна.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Классический маникюр.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Комбинированный маникюр.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Контурная пластика.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\массаж.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Мезотерапия.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Моделирование ресниц.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\ногти.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Окрашивание бровей.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Парафинотерапия.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Покрытие ногтей гель-лаком.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Полировка ногтей.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Прессотерапия.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Прокол ушей пистолетом.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Ресницы.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Снятие ресниц.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\стрижка.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Укрепление ногтей гелем.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Шугаринг.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Экспресс SPA.png
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\assets\images\Services\Экспресс-педикюр.jpg
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.exe
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.deps.json
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.runtimeconfig.json
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\BeautySaloon.pdb
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\App.baml
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\BeautySaloonHome.baml
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\LoginWindow.baml
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\ServiceRegistration.baml
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\ServisesPage.baml
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\UpdateServicePage.baml
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.g.resources
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.AssemblyInfoInputs.cache
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.AssemblyInfo.cs
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.CoreCompileInputs.cache
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.csproj.CopyComplete
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\refint\BeautySaloon.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.pdb
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\BeautySaloon.genruntimeconfig.cache
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\ref\BeautySaloon.dll
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\UpcomingEntries.g.cs
+C:\Users\307-05\Documents\qqq\BeautySaloon\obj\Debug\net6.0-windows\Views\UpcomingEntries.baml

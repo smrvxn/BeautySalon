@@ -1,0 +1,39 @@
+﻿<Application x:Class="BeautySaloon.App"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"             
+             xmlns:local="clr-namespace:BeautySaloon" 
+             xmlns:converters="clr-namespace:BeautySaloon.Converters"
+             StartupUri="Views/LoginWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                
+                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="DeepPurple" SecondaryColor="Lime" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary>
+                    
+                </ResourceDictionary>
+                <ResourceDictionary>
+                    <SolidColorBrush x:Key="PrimaryHueLightBrush" Color="#FF4A6D"/>
+                    <SolidColorBrush x:Key="PrimaryHueLightForegroundBrush" Color="White"/>
+                    <SolidColorBrush x:Key="PrimaryHueMidBrush" Color="#FF4A6D"/>
+                    <SolidColorBrush x:Key="PrimaryHueMidForegroundBrush" Color="White"/>
+                    <SolidColorBrush x:Key="PrimaryHueDarkBrush" Color="#FF4A6D"/>
+                    <SolidColorBrush x:Key="PrimaryHueDarkForegroundBrush" Color="White"/>
+
+                    <SolidColorBrush x:Key="SecondaryHueMidBrush" Color="#E1E4FF"/>
+                    <SolidColorBrush x:Key="SecondaryHueMidForegroundBrush" Color="Black"/>                    
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+            <converters:ImagePathToImageConverter x:Key="imageConverter" />
+            <converters:DiscountToStrokeConverter x:Key="discountToStrokeConverter"/>
+            <converters:DiscountToColorConverter x:Key="discountToColorConverter"/>
+            <converters:SecondsToMinutesConverter x:Key="timeConverter" />
+            <converters:DiscountConverter x:Key="discountConverter" />
+            <converters:TimeConverter x:Key="timeConverterS"/>
+            <converters:ColorTimeConverter x:Key="colorTimeConverter"/>
+        </ResourceDictionary>
+        
+    </Application.Resources>
+</Application>
